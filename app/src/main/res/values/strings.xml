@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Corona Tracker</string>
+    <string name="default_notification_channel_id">default</string>
+    <string name="text_confirmed_cases">Confirmed Cases : %s</string>
+    <string name="text_last_updated">Last Updated : %s</string>
+    <string name="default_notification_channel_name">Covid-19 India</string>
+    <string name="active">Active</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="deceased">Deceased</string>
+    <string name="recovered">Recovered</string>
+    <string name="india_covid_19_ntracker">India covid-19 \nStatus</string>
+    <string name="todo">TODO</string>
+
+
+
+
+</resources>
